@@ -1,7 +1,13 @@
-                                                    🍔 Fome Burguer – Projeto de Hamburgueria
+  # 🍔 Fome Burguer – Projeto de Hamburgueria:
+  
 Este é um projeto desenvolvido com foco em interfaces intuitivas, responsivas e modernas, simulando a página de uma hamburgueria fictícia chamada Fome Burguer.
 
 A ideia é proporcionar uma experiência de usuário agradável e funcional, com destaque para o sistema de carrinho de compras com modal interativo e feedback visual utilizando a biblioteca Toastify.
+
+Link do projeto hospedado no Vercel:
+
+🍔
+https://fome-burguer-psi.vercel.app/
 
 🚀 Tecnologias utilizadas:
 
@@ -37,8 +43,3 @@ Você pode clonar este repositório e abrir o arquivo index.html diretamente em 
 
     git clone https://github.com/seu-usuario/fome-burguer.git
     cd fome-burguer
-
-Link do projeto hospedado no Vercel:
-
-🍔
-https://fome-burguer-psi.vercel.app/
